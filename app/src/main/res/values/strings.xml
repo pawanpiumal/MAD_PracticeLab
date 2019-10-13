@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD_PracticeLab</string>
+    <string name="TheCourseApp">The Course App</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Teacher">Teacher</string>
+    <string name="Student">Student</string>
+    <string name="RegisterForm">Register Form</string>
+    <string name="Subject">Subject</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Send">Send</string>
+    <string name="Message">Message</string>
+    <string name="channel_name">CoursrApp</string>
+    <string name="channel_description">CourseApp</string>
+</resources>
